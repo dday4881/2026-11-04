@@ -1,2 +1,1 @@
-# 2026-11-04
-hasta la vista baby
+i left a report for 07_project in 04-weds folder
